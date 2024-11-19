@@ -86,5 +86,4 @@ The application handles the following errors:
 ## Contact
 
 If you have any questions or feedback, please reach out to:
-- SreeLakshmi Vallabhaneni
 - **Email**: Sreelakshmivallabhaneni@gmail.com
